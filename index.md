@@ -1,4 +1,3 @@
-# ASL 2022 
 ##  Advances in Separation Logic at [FLOC 2022](https://www.floc2022.org/)
 
 ASL 2022 is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html).
