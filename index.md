@@ -37,7 +37,7 @@ The submission is done on [Easychair](https://easychair.org/conferences/?conf=as
 
 ### Committees
 
-Program Committe
+*Program Committe*
 
  - Arthur Charguéraud (INRIA Saclay, France)
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
@@ -51,7 +51,7 @@ Program Committe
  - Mihaela Sighireanu (LMF, ENS Paris-Saclay, France)
  - Florian Zuleger (Vienna University of Technology, Austria)
    
-Organizing committee
+*Organizing committee*
 
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
  - Nikos Gorogiannis (Facebook, UCL, London, UK)
