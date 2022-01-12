@@ -47,7 +47,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
  - James Brotherston (UCL, London, UK)
  - Qinxiang Cao (Shanghai Jiaotong University)
- - Dan Frumin (Radboud University, The Netherlands)
+ - Dan Frumin (University of Groningen, The Netherlands)
  - Lennart Beringer (Princeton University, USA) 
  - Arthur Charguéraud (INRIA Saclay, France)
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
@@ -65,7 +65,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
  - Nikos Gorogiannis (Facebook, UCL, London, UK)
- - Robbert Krebbers (Radboud Univ. Nijmegen, Holland)
+ - Robbert Krebbers (Radboud Univ. Nijmegen, The Netherlands)
  - Mihaela Sighireanu (LMF, ENS Paris-Saclay, France)
  - Makoto Tatsuta (NII, Tokyo, Japan)
  - Thomas Noll (RWTH, Aachen, Germany)
