@@ -1,4 +1,4 @@
-**ASL 2022 (Advances in Separation Logic)** is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html) at [FLOC 2022](https://www.floc2022.org/)
+## ASL 2022 (Advances in Separation Logic)
 
 ### Keynote Speakers
 
@@ -10,9 +10,7 @@ The expressivity of SL and, in general, of resource logics such as BI, comes wit
 
 Another interesting line of work consists in finding alternatives to the underlying semantic domain of SL, namely heaps with aggregative composition, in order to address other fields incomputing, such as self-adapting distributed networks, blockchain and population protocols, social networks or biological systems.
 
-ASL 2022 aims being a place to exchange on the above topics. It extends the topics of the [ADSL 2018](http://adsl.univ-grenoble-alpes.fr/) (at FLOC 2018) and ADSL 2020 (at POPL 2020) workshops.
-
-
+ASL 2022 is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html) at [FLOC 2022](https://www.floc2022.org/)
 
 ### Submission Guidelines
 
