@@ -1,4 +1,4 @@
-## ASL 2022 (Advances in Separation Logic)
+## Workshop on Advances in Separation Logic (ASL 2022)
 
 ### Keynote Speakers
 
