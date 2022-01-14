@@ -45,6 +45,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
 *Program Committe*
 
+ - Nadia Polikarpova (UCSD, San Diego, USA)
  - James Brotherston (UCL, London, UK)
  - Qinxiang Cao (Shanghai Jiaotong University)
  - Dan Frumin (University of Groningen, The Netherlands)
