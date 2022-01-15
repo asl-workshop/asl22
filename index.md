@@ -51,7 +51,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
  - Qinxiang Cao (Shanghai Jiaotong University)
  - Dan Frumin (University of Groningen, The Netherlands)
  - Lennart Beringer (Princeton University, USA) 
- - Arthur Charguéraud (INRIA Saclay, France)
+ - Arthur Charguéraud (INRIA Strasbourg, France)
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
  - Le Quang Loc (UCL, London, UK)
  - Alessio Mansutti (University of Oxford, UK)
