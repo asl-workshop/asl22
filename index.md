@@ -22,7 +22,7 @@ All papers must be original and not simultaneously submitted to another journal 
   - alternative semantics and computation models based on the notion  of resource,
   - application of separation and resource logics to different  fields, such as sociology and biology.
 
-We consider **short papers up to 8 pages** and **regular papers between 9 and 15 pages** (LNCS style, references excluded). The selection of the papers will be done by a peer-review processinvolving a program committee of renowned researchers. In order to encourage submission of high quality papers that report on ongoingresearch, we will not publish formal proceedings. Revised versions ofthe papers presented at ASL can thus be subsequently submitted elsewhere.
+We consider **short papers up to 8 pages** and **regular papers between 9 and 15 pages** (LNCS style, references excluded). The selection of the papers will be done by a peer-review process involving a program committee of renowned researchers. In order to encourage submission of high quality papers that report on ongoing research, we will not publish formal proceedings. Revised versions ofthe papers presented at ASL can thus be subsequently submitted elsewhere.
 
 The submission is done on [Easychair](https://easychair.org/conferences/?conf=asl2022).
 
