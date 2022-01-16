@@ -1,6 +1,6 @@
-### Advances in Separation Logic (ASL 2022)
+### Advances in Separation Logics (ASL 2022)
 
-The past two decades have witnessed important progress in static analysis and verification of code with low-level pointer and heap manipulations, mainly due to the development of Separation Logic (SL). The impact of SL is attested, in academia, by the Goedel Prize 2016 and the CAV Award 2016, as well as in industry, by the integration of SL-based analyses with software development at Facebook. SL is a resource logic, a dialect of the logic of Bunched Implications (BI) designed to describe models of the heap memory and the mutations that occur in theheap as the result of low-level pointer updates. The success of SL in program analysis is due to the support for local reasoning, namely the ability of describing only the resource(s) being modified, instead of the entire state of the system. This enables the design of compositional analyses that synthesize specifications of the behavior of small parts of the program before combining such local specifications into global verification conditions.
+The past two decades have witnessed important progress in static analysis and verification of code with low-level pointer and heap manipulations, mainly due to the development of Separation Logic (SL). The impact of SL is attested, in academia, by the Goedel Prize 2016 and the CAV Award 2016, as well as in industry, by the integration of SL-based analyses with software development at Facebook. SL is a resource logic, a dialect of the logic of Bunched Implications (BI) designed to describe models of the heap memory and the mutations that occur in the heap as the result of low-level pointer updates. The success of SL in program analysis is due to the support for local reasoning, namely the ability of describing only the resource(s) being modified, instead of the entire state of the system. This enables the design of compositional analyses that synthesize specifications of the behavior of small parts of the program before combining such local specifications into global verification conditions.
 
 The expressivity of SL and, in general, of resource logics such as BI, comes with the inherent difficulty of automating the reasoning, most decision problems, such as satisfiability or entailment being undecidable. In spite of such theoretical hardships, recent results show that important fragments of SL are within elementary complexity classes. This progress hints at possible standardisations of automated or interactive theorem proving tools and techniques, the creation of benchmark libraries and the organization of competitions.
 
@@ -22,10 +22,9 @@ All papers must be original and not simultaneously submitted to another journal 
   - alternative semantics and computation models based on the notion  of resource,
   - application of separation and resource logics to different  fields, such as sociology and biology.
 
-We consider **short papers up to 8 pages** and **regular papers between 9 and 15 pages** (LNCS style, references excluded). The selection of the papers will be done by a peer-review process involving a program committee of renowned researchers. In order to encourage submission of high quality papers that report on ongoing research, we will not publish formal proceedings. Revised versions ofthe papers presented at ASL can thus be subsequently submitted elsewhere.
+We consider **short papers up to 8 pages** and **regular papers between 9 and 15 pages** (LNCS style, references excluded). The selection of the papers will be done by a peer-review process involving a program committee of renowned researchers. In order to encourage submission of high quality papers that report on ongoing research, we will not publish formal proceedings. Revised versions of the papers presented at ASL can thus be subsequently submitted elsewhere.
 
 The submission is done on [Easychair](https://easychair.org/conferences/?conf=asl2022).
-
 
 
 ### Important Dates 
@@ -35,11 +34,9 @@ The submission is done on [Easychair](https://easychair.org/conferences/?conf=as
   - Workshop: **July 31, 2022**
 
 
-
 ### Submission Guidelines
 
 As part of this workshop, we intend to organize a fourth edition of the [Separation Logic Competition (SL-COMP)](https://sl-comp.github.io) for solvers targeting fragments of Separation Logics.  
-
 
 
 ### Committees
@@ -71,4 +68,3 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
  - Mihaela Sighireanu (LMF, ENS Paris-Saclay, France)
  - Makoto Tatsuta (NII, Tokyo, Japan)
  - Thomas Noll (RWTH, Aachen, Germany)
-
