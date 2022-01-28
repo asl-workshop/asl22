@@ -14,7 +14,7 @@ ASL 2022 is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-pr
 ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
 
 
-![](ralf.jpg) ***Ralf Jung, MIT CSAIL***
+![](ralf-1.jpg) ***Ralf Jung, MIT CSAIL***
 
 
 ### Submission Guidelines
