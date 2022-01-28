@@ -11,11 +11,10 @@ ASL 2022 is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-pr
 ### Keynote Speakers
 
 
-![](philippa-1.jpg) **Philippa Gardner, Imperial College London**
+<html><img src="philippa-1.jpg" align="left"> <div><p>Philippa Gardner, Imperial College London</p><p> TBA </p></div></html>
 
 
-
-![](ralf.jpg) **Ralf Jung, MIT CSAIL**
+<html><img src="ralf.jpg" align="left"> <div><p>Ralf Jung, MIT CSAIL</p><p> TBA </p></div></html>
 
 
 ### Submission Guidelines
