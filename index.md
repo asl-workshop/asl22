@@ -46,7 +46,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
 ### Committees
 
-*Program Committe*
+*Program Committee*
 
  - Nadia Polikarpova (UCSD, San Diego, USA)
  - James Brotherston (UCL, London, UK)
