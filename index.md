@@ -4,7 +4,7 @@ The past two decades have witnessed important progress in static analysis and ve
 
 The expressivity of SL and, in general, of resource logics such as BI, comes with the inherent difficulty of automating the reasoning, most decision problems, such as satisfiability or entailment being undecidable. In spite of such theoretical hardships, recent results show that important fragments of SL are within elementary complexity classes. This progress hints at possible standardisations of automated or interactive theorem proving tools and techniques, the creation of benchmark libraries and the organization of competitions.
 
-Another interesting line of work consists in finding alternatives to the underlying semantic domain of SL, namely heaps with aggregative composition, in order to address other fields incomputing, such as self-adapting distributed networks, blockchain and population protocols, social networks or biological systems.
+Another interesting line of work consists in finding alternatives to the underlying semantic domain of SL, namely heaps with aggregative composition, in order to address other fields in computing, such as self-adapting distributed networks, blockchain and population protocols, social networks or biological systems.
 
 ASL 2022 is a workshop affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html) at [FLOC 2022](https://www.floc2022.org/)
 
