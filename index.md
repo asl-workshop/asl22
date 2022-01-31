@@ -68,7 +68,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 *Organizing committee*
 
  - Radu Iosif (Verimag, CNRS, Univ. Grenoble Alpes, France)
- - Nikos Gorogiannis (Facebook, UCL, London, UK)
+ - Nikos Gorogiannis (Meta, London, UK)
  - Robbert Krebbers (Radboud Univ. Nijmegen, The Netherlands)
  - Mihaela Sighireanu (LMF, ENS Paris-Saclay, France)
  - Makoto Tatsuta (NII, Tokyo, Japan)
