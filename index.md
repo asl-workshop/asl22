@@ -7,7 +7,9 @@ The expressivity of SL and, in general, of resource logics such as BI, comes wit
 Another interesting line of work consists in finding alternatives to the underlying semantic domain of SL, namely heaps with aggregative composition, in order to address other fields in computing, such as self-adapting distributed networks, blockchain and population protocols, social networks or biological systems.
 
 ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html) at [FLOC 2022](https://www.floc2022.org/). 
-### Due to the uncertainty of the COVID19 and international situation, the workshop will be organized as a virtual event.
+
+## Due to the uncertainty of the COVID19 and international situation, the workshop will be organized as a virtual event.
+
 
 ### Keynote Speakers
 
