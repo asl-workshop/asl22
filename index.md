@@ -40,9 +40,6 @@ The submission is done on [Easychair](https://easychair.org/conferences/?conf=as
   - Authors notification: **June 15, 2022 (AoE)**
   - Workshop: **July 31, 2022**
 
-
-### Submission Guidelines
-
 As part of this workshop, we intend to organize a fourth edition of the [Separation Logic Competition (SL-COMP)](https://sl-comp.github.io) for solvers targeting fragments of Separation Logics.  
 
 
