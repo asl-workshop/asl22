@@ -28,9 +28,7 @@ on its own is not able to express and exploit the desired notion of functional
 correctness for concurrent data structures: linearizability. While CSL is
 regularly employed to *prove* linearizability, linearizability is an
 extra-logical notion: when working inside the separation logic, there is no way
-to make *use* of the fact that some data structure is linearizable.
-
-Therefore, the TaDA paper in 2014 proposed a new style of specifying concurrent
+to make *use* of the fact that some data structure is linearizable. Therefore, the TaDA paper in 2014 proposed a new style of specifying concurrent
 data structures: *logically atomic Hoare triples*. These triples provide a
 simple way to turn a specification of a sequential data structure (say, a stack)
 into a concurrent variant of the same specification, stipulating that each
