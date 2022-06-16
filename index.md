@@ -13,9 +13,8 @@ ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR
 
 ### Keynote Speakers
 
-
-![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
-
+<!-- ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London*** -->
+<img align="left" src="philippa-1.jpg">
 
 ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL***
 
