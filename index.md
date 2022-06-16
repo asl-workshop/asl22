@@ -13,14 +13,11 @@ ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR
 
 ### Keynote Speakers
 
-<!-- ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London*** -->
-<img style="float: left;" src="philippa-1.jpg"> ***Philippa Gardner, Imperial College London***
+![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
 
 *TBA*
 
-<!-- ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** -->
-
-<img style="float: left;" src="ralf-2.jpg"> ***Ralf Jung, MIT CSAIL*** 
+![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** 
 
 *Functional correctness specifications for concurrent data structures:
 Logical Atomicity in Iris* 
