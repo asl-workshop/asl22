@@ -14,9 +14,36 @@ ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR
 ### Keynote Speakers
 
 <!-- ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London*** -->
-<img align="left" src="philippa-1.jpg">
+<img style="float: left;" src="philippa-1.jpg"> ***Philippa Gardner, Imperial College London***
 
-![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL***
+*TBA*
+
+<!-- ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** -->
+
+<img style="float: left;" src="ralf-2.jpg"> ***Ralf Jung, MIT CSAIL*** 
+
+*Functional correctness specifications for concurrent data structures:
+Logical Atomicity in Iris* 
+
+Concurrent separation logic (CSL) has demonstrated that separation logic is
+exceptionally well-suited for reasoning about concurrent programs. However, CSL
+on its own is not able to express and exploit the desired notion of functional
+correctness for concurrent data structures: linearizability. While CSL is
+regularly employed to *prove* linearizability, linearizability is an
+extra-logical notion: when working inside the separation logic, there is no way
+to make *use* of the fact that some data structure is linearizable.
+
+Therefore, the TaDA paper in 2014 proposed a new style of specifying concurrent
+data structures: *logically atomic Hoare triples*. These triples provide a
+simple way to turn a specification of a sequential data structure (say, a stack)
+into a concurrent variant of the same specification, stipulating that each
+operation must "behave atomically". This enables clients of logically atomic
+triples to make use of the "invariant rule", a key proof rule in CSL to reason
+about an atomic step of execution. In this talk, I will explain how logically
+atomic triples are used in Iris to specify and verify concurrent data structures
+as well as clients of these data structures. I will also show how logically
+atomic triples are defined inside the Iris program logic by composing
+lower-level logical primitives.
 
 ### Submission Guidelines
 
