@@ -15,14 +15,14 @@ ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR
 
 ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
 
-*TBA*
+***TBA***
 
 ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** 
 
-*Functional correctness specifications for concurrent data structures:
-Logical Atomicity in Iris* 
+***Functional correctness specifications for concurrent data structures:
+Logical Atomicity in Iris***
 
-Concurrent separation logic (CSL) has demonstrated that separation logic is
+**Abstract**: Concurrent separation logic (CSL) has demonstrated that separation logic is
 exceptionally well-suited for reasoning about concurrent programs. However, CSL
 on its own is not able to express and exploit the desired notion of functional
 correctness for concurrent data structures: linearizability. While CSL is
