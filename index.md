@@ -40,7 +40,7 @@ as well as clients of these data structures. I will also show how logically
 atomic triples are defined inside the Iris program logic by composing
 lower-level logical primitives.
 
-**The full program is available [here](https://easychair.org/smart-program/FLoC2022/ASL-index.html)**
+### The full program is available [here](https://easychair.org/smart-program/FLoC2022/ASL-index.html)
 
 ### Submission Guidelines
 
