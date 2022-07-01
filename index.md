@@ -10,6 +10,14 @@ Another interesting line of work consists in finding alternatives to the underly
 
 ASL 2022 is affiliated to [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/index.html) at [FLOC 2022](https://www.floc2022.org/). 
 
+See detailed [program](https://easychair.org/smart-program/FLoC2022/ASL-index.html). 
+
+As part of this workshop, we intend to organize a fourth edition of the [Separation Logic Competition (SL-COMP)](https://sl-comp.github.io) for solvers targeting fragments of Separation Logics.  
+
+### Registration
+
+* In-person registration is done via the FLOC 2022 [link](https://www.floc2022.org/registration).
+* Virtual participation is free of charge but requires registration via this [link](https://asl2022.rsvpify.com/).
 
 ### Keynote Speakers
 
@@ -39,32 +47,6 @@ atomic triples are used in Iris to specify and verify concurrent data structures
 as well as clients of these data structures. I will also show how logically
 atomic triples are defined inside the Iris program logic by composing
 lower-level logical primitives.
-
-### The full program is available [here](https://easychair.org/smart-program/FLoC2022/ASL-index.html)
-
-### Submission Guidelines
-
-All papers must be original and not simultaneously submitted to another journal or conference.  We consider submissions on topics including:
-  - decision procedures for SL and other resource logics,
-  - computational complexity of decision problems such as satisfiability, entailment and abduction for SL and other resource logics,
-  - axiomatisations and proof systems for automated or interactive  theorem proving for SL and other resource logics,
-  - verification conditions for real-life interprocedural and  concurrent programs, using SL and other resource logics,
-  - alternative semantics and computation models based on the notion  of resource,
-  - application of separation and resource logics to different  fields, such as sociology and biology.
-
-We consider **short papers up to 8 pages** and **regular papers between 9 and 15 pages** (LNCS style, references excluded). The selection of the papers will be done by a peer-review process involving a program committee of renowned researchers. In order to encourage submission of high quality papers that report on ongoing research, we will not publish formal proceedings. Revised versions of the papers presented at ASL can thus be subsequently submitted elsewhere.
-
-The submission is done on [Easychair](https://easychair.org/conferences/?conf=asl2022).
-
-
-### Important Dates 
-
-  - Papers due: **May 20, 2022 (AoE, firm)**
-  - Authors notification: **June 15, 2022 (AoE)**
-  - Workshop: **July 31, 2022**
-
-As part of this workshop, we intend to organize a fourth edition of the [Separation Logic Competition (SL-COMP)](https://sl-comp.github.io) for solvers targeting fragments of Separation Logics.  
-
 
 ### Committees
 
