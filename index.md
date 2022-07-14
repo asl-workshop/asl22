@@ -22,7 +22,35 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
 ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
 
-***TBA***
+***Exact Separation Logic***
+
+***Abstract***: Over-approximating (OX) program logics, such as separation logic (SL),
+are used to verify properties of heap-manipulating programs: all
+terminating behaviour is characterised, but the reported results and
+errors need not be reachable. OX function specifications are thus
+incompatible with true bug-finding supported by symbolic execution
+tools such as Pulse and Gillian. In contrast, under-approximating (UX)
+program logics, such as incorrectness separation logic (ISL), are used
+to find true results and bugs: reported results and errors are
+reachable, but not all behaviour can be characterised. UX function
+specifications thus cannot capture full verification. We introduce exact separation logic (ESL) for reasoning about
+heap-manipulating sequential programs, which provides fully verified
+function specifications compatible with true bug finding: all
+terminating behaviour is captured in full, and all reported results
+and errors are reachable.  ESL supports mutually recursive functions,
+which require subtle definitions of internal and external function
+specifications compared with the familiar definitions for OX logics.
+We prove a frame-preserving soundness result for ESL, and ISL and SL,
+thus demonstrating functional compositionality of UX reasoning. We
+verify exact specifications of list algorithms using standard
+inductive predicates, observing the difference between abstraction
+which hides information and OX reasoning which looses information.  We
+introduce a symbolic execution semantics that can call functions with
+ESL specifications, and prove a backwards completeness result that
+demonstrates that verified ESL function specifications are indeed
+compatible with true bug-finding.
+
+
 
 ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** 
 
