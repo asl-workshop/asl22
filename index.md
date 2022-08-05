@@ -55,7 +55,7 @@ compatible with true bug-finding.
 ![](ralf-2.jpg) ***Ralf Jung, MIT CSAIL*** 
 
 ***Functional correctness specifications for concurrent data structures:
-Logical Atomicity in Iris*** ![](ralf-slides.pdf)
+Logical Atomicity in Iris*** ![(slides)](ralf-slides.pdf)
 
 **Abstract**: Concurrent separation logic (CSL) has demonstrated that separation logic is
 exceptionally well-suited for reasoning about concurrent programs. However, CSL
