@@ -22,7 +22,7 @@ As part of this workshop, we intend to organize a fourth edition of the [Separat
 
 ![](philippa-1.jpg) ***Philippa Gardner, Imperial College London***
 
-***Exact Separation Logic***
+***Exact Separation Logic*** [(slides)](philippa-slides.pptx)
 
 ***Abstract***: Over-approximating (OX) program logics, such as separation logic (SL),
 are used to verify properties of heap-manipulating programs: all
